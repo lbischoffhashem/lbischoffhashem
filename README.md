@@ -1,4 +1,4 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=32&pause=1000&color=000000&background=3DBC9A00&vCenter=true&repeat=false&width=436&height=40&lines=Hey%2C+I'm+Layth!" alt="Typing SVG" /></a> </h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3400&pause=1000&color=569CD6&background=1E1E1E00&vCenter=true&repeat=false&width=300&height=60&lines=Hey%2C+I'm+Layth!" alt="Typing SVG" /></a></h1>
 
 
 <h2>Software Development Projects:</h2>
