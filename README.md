@@ -7,9 +7,11 @@
   - [Description](https://github.com/link)
 - <b>Type of project/language</b>
   - [Description](https://github.com/link)
-- <b>Type of project/langauge</b>
-  - [Description](https://github.com/link)
-  - [Description](https://github.com/link)
+- <b>Java: Data Structures</b>
+  - [Campus Navigation Using Graphs](https://github.com/lbischoffhashem/rutgers-campus-navigation)
+  - [Cyber Crime Recognition Using Separate Chaining Hashtables](https://github.com/lbischoffhashem/cyber-crime-investigation)
+  - [Translating Braille Using a Prefix Tree](https://github.com/lbischoffhashem/braille-translator)
+  - [Classroom Simulation Using Linked Lists](https://github.com/lbischoffhashem/classroom-simulation)
 
 
 <!--
