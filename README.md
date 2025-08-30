@@ -3,10 +3,8 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>Type of project/language</b>
-  - [Description](https://github.com/link)
-- <b>Type of project/language</b>
-  - [Description](https://github.com/link)
+- <b>Python: Machine Learning</b>
+  - [Stock Market Predictor Using SQLite and Streamlit](https://github.com/lbischoffhashem/stock-market-predictor)
 - <b>Java: Data Structures</b>
   - [Campus Navigation Using Graphs](https://github.com/lbischoffhashem/rutgers-campus-navigation)
   - [Cyber Crime Recognition Using Separate Chaining Hashtables](https://github.com/lbischoffhashem/cyber-crime-investigation)
